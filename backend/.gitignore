@@ -1,7 +1,0 @@
-.env
-# Ignore files starting with Z_
-Z_*
-
-# Other ignore rules
-node_modules/
-.env
