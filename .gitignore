@@ -9,7 +9,7 @@ node_modules/
 # Ignore all .log files
 *.log
 *.tmp
-Docker-compose.yml
+docker-compose.yml
 Dockerfile
 
 

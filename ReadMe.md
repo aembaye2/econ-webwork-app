@@ -10,6 +10,8 @@ conda create --name myenv python=3.10
 
 conda activate myenv
 
+pip install -r requirements.txt
+
 # then change the .env.example to .env file and edit the username and password
 
 # run the app:
