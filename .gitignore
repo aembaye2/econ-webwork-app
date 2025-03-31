@@ -6,3 +6,10 @@ Z_*
 node_modules/
 .env
 
+# Ignore all .log files
+*.log
+*.tmp
+docker-compose.yml
+dockerfile
+
+
